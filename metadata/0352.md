@@ -1,0 +1,23 @@
+Image metadata for illustrations from the Pratham Books story [Let's Go Seed Collecting!](https://storyweaver.org.in/stories/4407-let-s-go-seed-collecting) by Neha Sumitran.
+
+Image | Description | Illustrator | License
+----- | ----------- | ----------- | -------
+01.jpg | Boy, girl and dog - the seed collectors  | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+02.jpg | Girl looking at a button, boy waving, dog running | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+03.jpg | Children and dog walking downhill  | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+04.jpg | A tree and flowers  | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+05.jpg | Laughing boy and girl with dog trailing behind them | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+06.jpg | Girl reaching out to tree, dog chasing butterfly, boy eating tamarind | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+07.jpg | Boy, girl and dog under a tree | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+08.jpg | Boy, girl and dog looking up at the tamarind tree | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+09.jpg | Boy laughing, girl hugging a tree, happy dog | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+10.jpg | Boy showing a basket of flowers to the tamarind tree  | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+11.jpg | Curious boy, girl and dog  | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+12.jpg | Girl eating an apple, boy holding a banana  | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+13.jpg | Boy looking at a banana, girl feeding a dog an apple | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+14.jpg | Girl, boy and dog around different trees | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+15.jpg | Plants being grown in pots, pans and buckets | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+16.jpg | A tamarind tree | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+17.jpg | Red chilli, jackfruit and coffee | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+18.jpg | Coconut and peanut  | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+19.jpg | Rice and chocolate  | Archana Sreenivasan | [CC-BY](https://creativecommons.org/licenses/by/4.0/)
